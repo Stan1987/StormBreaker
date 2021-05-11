@@ -1,0 +1,13 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "jiannanTest",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}

@@ -1,0 +1,8 @@
+{
+  "name": "jiannanTest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "1ff64db7"
+}
